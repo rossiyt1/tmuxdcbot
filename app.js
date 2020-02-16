@@ -1641,4 +1641,4 @@ bot.on('voiceStateUpdate', (oldMember, newMember) =>{
 	}
 });
 
-bot.login(botLogin.token);
+bot.login(Njc4NTg4ODM0MjgzMjU3ODU2.Xkk_Vg.nptKT3W-dzMshjyDdEOrMP4qX5k);
